@@ -54,7 +54,6 @@
 		1AD37DBD1475936F006E9D1B = {
 			isa = PBXGroup;
 			children = (
-				1AD37DF41475A4E8006E9D1B /* AddressBook.framework */,
 				1AD37DD21475936F006E9D1B /* ICB_PrettyTableView */,
 				1AD37DCB1475936F006E9D1B /* Frameworks */,
 				1AD37DC91475936F006E9D1B /* Products */,
@@ -72,6 +71,7 @@
 		1AD37DCB1475936F006E9D1B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				1AD37DF41475A4E8006E9D1B /* AddressBook.framework */,
 				1AD37DCC1475936F006E9D1B /* UIKit.framework */,
 				1AD37DCE1475936F006E9D1B /* Foundation.framework */,
 				1AD37DD01475936F006E9D1B /* CoreGraphics.framework */,
